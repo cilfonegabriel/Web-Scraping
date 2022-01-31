@@ -1,2 +1,4 @@
 # Web-Scraping
 Web Sraping Starz Play
+Modelo de negocio:
+Starz Play es una plataforma de streaming de contenido Premium y Ultra Premiun para sus usuarios, ofrecen un servicio de video bajo demanda con suscripción. En Argentina el servicio tiene un valor de USD 2,49. Starzplay tiene aplicaciones para iOS y Android o puede usarse desde el ordenador a través del navegador. Es compatible con dispositivos iPhone e iPad . Es Compatible con navegadores Edge, Google Chrome, Mozilla Firefox o Safari a los que se podrá acceder para ver cualquier serie o película. No ofrecen programación para chicos, reality shows, ni documentales, solo ficción para adultos. Independientemente del operador que el usuario tenga y a través de una suscripción mensual, está disponible en paises como España, Alemania, Francia, Argentina, Chile, Italia, Irlanda, Brasil, Mexico, Paises Bajos y Reino Unido.
